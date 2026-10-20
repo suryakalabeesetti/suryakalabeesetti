@@ -1,6 +1,6 @@
 # Hi, I'm Suryakala Beesetti 👋
 
-Frontend-focused full-stack developer | Final-year B.Tech CSE, RGUKT IIIT Srikakulam
+Final-year B.Tech CSE, RGUKT IIIT Srikakulam
 Currently: Product Development Intern @ Plexis (React / MERN)
 
 ## 🛠 Tech
