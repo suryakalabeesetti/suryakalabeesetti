@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/suryakala-beesetti-a4844434a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://leetcode.com/u/suryakala06/"><img src="https://img.shields.io/badge/LeetCode-500%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
   <a href="mailto:beesettisuryakala@gmail.com"><img src="https://img.shields.io/badge/Email-beesettisuryakala%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=suryakala1508&style=flat-square&color=334155" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=suryakalabeesetti&style=flat-square&color=334155" alt="Profile Views"/>
 </p>
 
 ---
@@ -49,24 +49,24 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/suryakala1508/IntervueX">🎙️ IntervueX</a></h4>
+      <h4><a href="https://github.com/suryakalabeesetti/IntervueX">🎙️ IntervueX</a></h4>
       <p>AI interview practice platform powered by an adaptive LangGraph agent, interactive React 19 dashboards, and a high-performance FastAPI backend.</p>
       <code>React 19</code> <code>LangGraph</code> <code>FastAPI</code>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/suryakala1508/RepoPilot">🔍 RepoPilot</a></h4>
+      <h4><a href="https://github.com/suryakalabeesetti/RepoPilot">🔍 RepoPilot</a></h4>
       <p>Conversational developer assistant that answers technical questions about any public GitHub repository using Retrieval-Augmented Generation.</p>
       <code>React 19</code> <code>TypeScript</code> <code>FastAPI</code> <code>RAG</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/suryakala1508/BBMS">🩸 Blood Bank Management System (BBMS)</a></h4>
+      <h4><a href="https://github.com/suryakalabeesetti/BBMS">🩸 Blood Bank Management System (BBMS)</a></h4>
       <p>Full-stack healthcare inventory platform with role-based access control and live blood stock tracking. (<a href="https://astonishing-treacle-d02935.netlify.app/">Live Demo</a>)</p>
       <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/suryakala1508/ChatSphere">💬 ChatSphere</a></h4>
+      <h4><a href="https://github.com/suryakalabeesetti/ChatSphere">💬 ChatSphere</a></h4>
       <p>Real-time messaging application supporting instant private conversations and multi-user group chat rooms.</p>
       <code>React</code> <code>Socket.io</code> <code>Node.js</code> <code>MongoDB</code>
     </td>
@@ -87,16 +87,16 @@
 ### 📊 GitHub Analytics & Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=suryakala1508&show_icons=true&theme=slateorange&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryakala1508&layout=compact&theme=slateorange&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=suryakalabeesetti&show_icons=true&theme=slateorange&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryakalabeesetti&layout=compact&theme=slateorange&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=suryakala1508&theme=dark&hide_border=true&background=0F172A&stroke=1E293B&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=suryakalabeesetti&theme=dark&hide_border=true&background=0F172A&stroke=1E293B&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suryakala1508&bg_color=0F172A&color=94A3B8&line=38BDF8&point=F8FAFC&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suryakalabeesetti&bg_color=0F172A&color=94A3B8&line=38BDF8&point=F8FAFC&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 <div align="center">
